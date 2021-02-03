@@ -58,7 +58,7 @@ object Collection {
 
     // 创建一个可变集合
     val list_buf = mutable.ListBuffer[Int]()
-    list_buf.addOne(2)
+    // list_buf.addOne(2)
     list_buf.insert(0, 1)
     list_buf += 3
     list_buf ++= list_constant

@@ -5,7 +5,7 @@ import com.zhmh.Base
 import com.zhmh.packages._ // 引入包内所有内容
 
 object Hello {
-  def main(args: Array[String]) {
+  def main(args: Array[String]): Unit = {
     println("Hello World Start")
     println("■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■")
     // 使用批量导入的包
