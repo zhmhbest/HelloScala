@@ -1,4 +1,4 @@
-package com.zhmh.packages
+package org.example.packages
 
 object First {
   def say(): Unit = {

@@ -1,4 +1,4 @@
-package com.zhmh
+package org.example
 
 object Function {
   def define_method(): Unit = {

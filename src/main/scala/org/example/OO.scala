@@ -1,4 +1,4 @@
-package com.zhmh
+package org.example
 
 /*
  * 被 final 修饰的类不能被继承；

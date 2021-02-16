@@ -1,4 +1,4 @@
-package com.zhmh
+package org.example
 
 class OpTest {
   var m_str: String = ""

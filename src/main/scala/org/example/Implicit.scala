@@ -1,4 +1,4 @@
-package com.zhmh
+package org.example
 
 object Implicit {
   // 隐式参数

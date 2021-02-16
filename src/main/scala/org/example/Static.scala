@@ -1,4 +1,4 @@
-package com.zhmh
+package org.example
 
 class Static(name: String) {
   def sayWhoAmI(): Unit = {

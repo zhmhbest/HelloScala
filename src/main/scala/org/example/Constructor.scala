@@ -1,4 +1,4 @@
-package com.zhmh
+package org.example
 
 /**【默认构造函数】
   * 如果不指定主构造函数，所有类的主体的声明都被视为构造函数的一部分
